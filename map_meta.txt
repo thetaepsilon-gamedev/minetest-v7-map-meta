@@ -42,10 +42,10 @@ mgv7_np_ridge_uwater = {
 	flags = defaults
 	lacunarity = 2
 	offset = 0
-	scale = 2
+	scale = 10
 	spread = (1000,1000,1000)
 	seed = 85039
-	octaves = 5
+	octaves = 6
 	persistence = 0.6
 }
 mgv7_np_filler_depth = {
@@ -74,10 +74,10 @@ mgv7_np_mountain = {
 	flags = defaults
 	lacunarity = 2
 	offset = -0.6
-	scale = 2
+	scale = 10
 	spread = (250,350,250)
 	seed = 5333
-	octaves = 5
+	octaves = 6
 	persistence = 0.63
 }
 mgv7_np_height_select = {
